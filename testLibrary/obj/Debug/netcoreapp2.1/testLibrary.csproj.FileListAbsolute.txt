@@ -1,0 +1,9 @@
+C:\Users\vnunez\source\repos\test\testLibrary\bin\Debug\netcoreapp2.1\testLibrary.deps.json
+C:\Users\vnunez\source\repos\test\testLibrary\bin\Debug\netcoreapp2.1\testLibrary.dll
+C:\Users\vnunez\source\repos\test\testLibrary\bin\Debug\netcoreapp2.1\testLibrary.pdb
+C:\Users\vnunez\source\repos\test\testLibrary\obj\Debug\netcoreapp2.1\testLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vnunez\source\repos\test\testLibrary\obj\Debug\netcoreapp2.1\testLibrary.AssemblyInfoInputs.cache
+C:\Users\vnunez\source\repos\test\testLibrary\obj\Debug\netcoreapp2.1\testLibrary.AssemblyInfo.cs
+C:\Users\vnunez\source\repos\test\testLibrary\obj\Debug\netcoreapp2.1\testLibrary.dll
+C:\Users\vnunez\source\repos\test\testLibrary\obj\Debug\netcoreapp2.1\testLibrary.pdb
+C:\Users\vnunez\source\repos\test\testLibrary\obj\Debug\netcoreapp2.1\testLibrary.csprojAssemblyReference.cache
